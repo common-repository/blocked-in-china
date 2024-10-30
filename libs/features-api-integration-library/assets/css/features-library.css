@@ -1,0 +1,97 @@
+/*Features*/
+#features_loading{
+    margin-top: 40px;
+}
+.features-container{
+    border-top: 1px solid #c3c4c7;
+    margin: 15px 0;
+    text-align: center;
+}
+.bic-alias{
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+    cursor: pointer;
+    width: calc(100% - 50px);
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+#features-fields,
+.bic-features{
+    display: flex;
+    justify-content: flex-start;
+    width: 1000px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.bic-features li{
+    width: calc(25% - 42px);
+    margin-left: 5px;
+    margin-right: 5px;
+    background: #fff;
+    box-shadow: 0px 0px 20px -15px #000;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+}
+.bic-features input[type=checkbox]{
+  display: none;
+/*   margin-right: -20px;
+  position: relative;
+  z-index: 2; */
+}
+
+.bic-features input[type=checkbox]:checked + p::after{
+    top: 25%;
+    right: 5px;
+    position: absolute;
+    font-family: "Dashicons";
+    content: "\f12a";
+    font-size: 25px;
+}
+
+#features-fields{
+    flex-direction: column;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+}
+
+.field-group input,
+.field-group textarea{
+    width: 100%;
+}
+
+.field-group .email-field,
+.field-group .message-field{
+    width: calc(100% - 20px);
+    text-align: left;
+    padding: 0 10px;
+}
+
+.field-group .fname-field,
+.field-group .lname-field{
+    width: calc(50% - 20px);
+    text-align: left;
+    padding: 0 10px;
+}
+
+.field-group{ 
+    display: flex;
+    padding: 5px 50px;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.china-plugins-bundle .plugin-block{
+    margin-top: 40px;
+    width: calc(400px - 120px);
+    background: #fff;
+    box-shadow: 0px 0px 20px -15px #000;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+}

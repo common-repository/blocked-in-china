@@ -1,0 +1,41 @@
+= 1.1.1 =
+* Added method to disable Google fonts. 
+
+= 1.1 =
+* Bug fixes. 
+
+= 1.0.9 =
+* Bug fixes. 
+
+= 1.0.8 =
+* Translations update. 
+* Update Freemius SDK. 
+
+= 1.0.7 =
+* Update Freemius SDK. 
+* Bug fixes and stability improvements. 
+
+= 1.0.6 =
+* Update Freemius SDK. 
+
+= 1.0.5 = 
+* Fix to timer not updating on license upgrade. 
+
+= 1.0.4 = 
+* Added Notifications section and Features opt-in.
+* Updated China Plugins Bundle tab details. 
+
+= 1.0.3 =
+* Refactored plugin completely and rebuilt API. 
+* Updated Freemius SDK to v2.4.5.
+
+= 1.0.2 =
+* Bug fixes that were preventing status updates from running. 
+* Updated Freemius SDK. 
+
+= 1.0.1 =
+* Improving security
+* Updated Freemius SDK. 
+
+= 1.0 =
+* Our first version!

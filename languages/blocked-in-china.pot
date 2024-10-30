@@ -1,0 +1,357 @@
+# Copyright (C) 2024 China Plugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blocked in China 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/blocked-in-china\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-09T13:42:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: blocked-in-china\n"
+
+#. Plugin Name of the plugin
+#: admin/class-admin-controller.php:266
+#: admin/templates/bundle.php:3
+#: admin/templates/bundle.php:71
+#: admin/templates/form.php:3
+#: admin/templates/log.php:3
+#: admin/templates/schedule.php:18
+msgid "Blocked in China"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://blockedinchina.io"
+msgstr ""
+
+#. Description of the plugin
+msgid "Run status checks to see if your website is available in mainland China."
+msgstr ""
+
+#. Author of the plugin
+msgid "China Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://chinaplugins.com/"
+msgstr ""
+
+#: admin/class-admin-controller.php:58
+msgid "Domain to check is required."
+msgstr ""
+
+#: admin/class-admin-controller.php:64
+msgid "API Key to check is required."
+msgstr ""
+
+#: admin/class-admin-controller.php:86
+msgid "Once Monthly"
+msgstr ""
+
+#: admin/class-admin-controller.php:94
+#: admin/class-admin-controller.php:318
+msgid "Please select an option to filter"
+msgstr ""
+
+#: admin/class-admin-controller.php:120
+msgid "Unable to fetch the log. Reload the page and try again..."
+msgstr ""
+
+#: admin/class-admin-controller.php:136
+msgid "Free"
+msgstr ""
+
+#: admin/class-admin-controller.php:137
+#: admin/class-admin-controller.php:180
+#: admin/templates/form.php:173
+#: admin/templates/schedule.php:33
+msgid "Upgrade here"
+msgstr ""
+
+#: admin/class-admin-controller.php:160
+msgid "Please select a frequency"
+msgstr ""
+
+#: admin/class-admin-controller.php:212
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: admin/class-admin-controller.php:227
+msgid "You are not authorized to perform the request now."
+msgstr ""
+
+#. translators: %s: The date and time when the website's status was last checked, followed by the timezone.
+#: admin/class-admin-controller.php:344
+msgid "Blocked in China Status: Not Blocked as of %s"
+msgstr ""
+
+#: admin/class-admin-controller.php:349
+msgid "Blocked in China Status: Not Blocked"
+msgstr ""
+
+#: admin/class-admin-controller.php:356
+msgid "Blocked in China Status: Blocked as of %1$s"
+msgstr ""
+
+#: admin/class-admin-controller.php:360
+msgid "Blocked in China Status: Blocked"
+msgstr ""
+
+#: admin/class-admin-controller.php:366
+#: admin/class-admin-controller.php:368
+msgid "Blocked in China Status: Check"
+msgstr ""
+
+#: admin/templates/bundle.php:6
+#: admin/templates/form.php:6
+#: admin/templates/form.php:222
+#: admin/templates/log.php:6
+#: admin/templates/log.php:51
+#: admin/templates/schedule.php:21
+msgid "Status"
+msgstr ""
+
+#: admin/templates/bundle.php:7
+#: admin/templates/form.php:7
+#: admin/templates/log.php:7
+#: admin/templates/schedule.php:22
+msgid "Schedule"
+msgstr ""
+
+#: admin/templates/bundle.php:8
+#: admin/templates/form.php:8
+#: admin/templates/log.php:8
+#: admin/templates/schedule.php:23
+msgid "Log"
+msgstr ""
+
+#: admin/templates/bundle.php:9
+#: admin/templates/form.php:9
+#: admin/templates/log.php:9
+#: admin/templates/schedule.php:24
+msgid "China Plugins Bundle <span class=\"dashicons dashicons-star-filled bic-yellow\"></span>"
+msgstr ""
+
+#: admin/templates/bundle.php:18
+msgid "China Payments Plugin"
+msgstr ""
+
+#: admin/templates/bundle.php:19
+msgid "Accept WeChat Pay and Alipay payments from Chinese customers."
+msgstr ""
+
+#: admin/templates/bundle.php:35
+#: admin/templates/bundle.php:61
+#: admin/templates/bundle.php:87
+#: admin/templates/bundle.php:107
+msgid "Learn more"
+msgstr ""
+
+#: admin/templates/bundle.php:36
+#: admin/templates/bundle.php:62
+#: admin/templates/bundle.php:88
+msgid "Install Free"
+msgstr ""
+
+#: admin/templates/bundle.php:45
+msgid "Speed in China"
+msgstr ""
+
+#: admin/templates/bundle.php:46
+msgid "Test your site's speed in the Chinese mainland."
+msgstr ""
+
+#: admin/templates/bundle.php:72
+msgid "Check if your site is available from mainland China servers."
+msgstr ""
+
+#: admin/templates/bundle.php:96
+msgid "Save 35% with China Plugins Bundle <span class=\"dashicons dashicons-star-filled bic-yellow\"></span>"
+msgstr ""
+
+#: admin/templates/bundle.php:101
+msgid "Get Blocked in China, Speed in China, and China Payments plugin bundled in one low-price."
+msgstr ""
+
+#: admin/templates/bundle.php:108
+msgid "Buy now"
+msgstr ""
+
+#: admin/templates/form.php:62
+msgid "Welcome to Blocked in China"
+msgstr ""
+
+#: admin/templates/form.php:63
+msgid "Check the status of your site to determine if it is available in China."
+msgstr ""
+
+#: admin/templates/form.php:72
+msgid "Check Status"
+msgstr ""
+
+#: admin/templates/form.php:80
+msgid "Your %1$s plan entitles you to %2$s Blocked in China Status updates for your site."
+msgstr ""
+
+#: admin/templates/form.php:94
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/templates/form.php:110
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/templates/form.php:126
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/templates/form.php:142
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/templates/form.php:158
+msgid "in %s"
+msgstr ""
+
+#: admin/templates/form.php:160
+msgid "now"
+msgstr ""
+
+#: admin/templates/form.php:164
+msgid "Your next status update is available <span id=\"api_countdown\">%1$s</span>."
+msgstr ""
+
+#: admin/templates/form.php:172
+msgid "To get more frequent Status Updates, %1$s."
+msgstr ""
+
+#. Translators: %1$s: Documentation link, %2$s: Blocked In China website
+#: admin/templates/form.php:182
+msgid "Learn more about our plugin in our %1$s or by %2$s."
+msgstr ""
+
+#: admin/templates/form.php:183
+msgid "Documentation"
+msgstr ""
+
+#: admin/templates/form.php:184
+msgid "visiting our site"
+msgstr ""
+
+#: admin/templates/form.php:192
+msgid "Enable WP Admin bar status"
+msgstr ""
+
+#: admin/templates/form.php:220
+#: admin/templates/log.php:49
+msgid "Location"
+msgstr ""
+
+#: admin/templates/form.php:221
+#: admin/templates/log.php:50
+msgid "Lookup Result"
+msgstr ""
+
+#: admin/templates/form.php:236
+msgid "No result found!"
+msgstr ""
+
+#: admin/templates/log.php:11
+msgid "Log History"
+msgstr ""
+
+#: admin/templates/log.php:13
+msgid "You can see all your API call log history."
+msgstr ""
+
+#: admin/templates/log.php:26
+msgid "Filter log"
+msgstr ""
+
+#: admin/templates/log.php:31
+msgid "Select"
+msgstr ""
+
+#: admin/templates/log.php:56
+msgid "Select option to see the results."
+msgstr ""
+
+#: admin/templates/schedule.php:26
+msgid "Schedule settings"
+msgstr ""
+
+#: admin/templates/schedule.php:32
+msgid "To schedule status updates, %1$s."
+msgstr ""
+
+#: admin/templates/schedule.php:50
+msgid "Schedule Status Updates"
+msgstr ""
+
+#: admin/templates/schedule.php:89
+msgid "Save Changes"
+msgstr ""
+
+#: blocked-in-china.php:154
+msgid "Hey %1$s,<br>In order to use <b>%2$s</b>, it's necessary to share your website URL and other minimal data with our servers. Click below to agree to our <a href=\"%3$s\" target=\"_blank\">Terms of Use & Privacy Policy</a> and connect to <a href=\"%4$s\" target=\"_blank\">blockedinchina.io</a> and <a href=\"%5$s\" target=\"_blank\">freemius.com</a>"
+msgstr ""
+
+#: blocked-in-china.php:183
+msgid "Hey %1$s In order to use <b>%2$s</b>, it's necessary to share your website URL and other minimal data with our servers. Enter your license key and click below to agree to our <a href=\"%3$s\" target=\"_blank\">Terms of Use & Privacy Policy</a> and connect to <a href=\"%4$s\" target=\"_blank\">blockedinchina.io</a> and <a href=\"%5$s\" target=\"_blank\">freemius.com</a>"
+msgstr ""
+
+#: blocked-in-china.php:212
+msgid "Yes - I'm in!"
+msgstr ""
+
+#: blocked-in-china.php:216
+msgid "Ok - I am in!"
+msgstr ""
+
+#: libs/features-api-integration-library/class-fil-admin-controller.php:65
+msgid "Please select at least one feature."
+msgstr ""
+
+#: libs/features-api-integration-library/class-fil-admin-controller.php:68
+msgid "Please enter first name."
+msgstr ""
+
+#: libs/features-api-integration-library/class-fil-admin-controller.php:71
+msgid "Please enter last name."
+msgstr ""
+
+#: libs/features-api-integration-library/class-fil-admin-controller.php:74
+msgid "Please enter email address."
+msgstr ""
+
+#: libs/features-api-integration-library/class-fil-admin-controller.php:79
+msgid "Thank You"
+msgstr ""
+
+#: libs/features-api-integration-library/templates/features.php:18
+msgid "First Name"
+msgstr ""
+
+#: libs/features-api-integration-library/templates/features.php:23
+msgid "Last Name"
+msgstr ""
+
+#: libs/features-api-integration-library/templates/features.php:30
+msgid "Email Address"
+msgstr ""
+
+#: libs/features-api-integration-library/templates/features.php:37
+msgid "Message"
+msgstr ""
